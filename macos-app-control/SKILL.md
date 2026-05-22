@@ -2,13 +2,16 @@
 name: "macos-app-control"
 version: "1.0.0"
 updated: "2026-05-23"
+source: "AI生成"
+author: "Codex (AI)"
 description: "控制 macOS 应用进行 UI 操作。通过 AppleScript 和键盘输入操控任意应用，支持窗口截图和视觉识别。适用于 GUI 自动化测试、键鼠控制功能测试或需要 GUI 操作的场景。当用户说'控制XX应用'、'操作XX软件'、'测试应用'、'GUI测试'时使用。"
 ---
 
 # macOS 应用控制技能
 
 **版本**：1.0.0  
-**更新日期**：2026-05-23
+**更新日期**：2026-05-23  
+**来源**：🤖 AI生成（Codex创建）
 
 这个技能让我能够通过 AppleScript 操控任意 macOS 应用，实现 UI 自动化和 GUI 测试。
 
